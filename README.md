@@ -17,6 +17,5 @@ Profile: with details like Name, Picture, PhoneNo and emailID, along with a list
 -Ecometer: to view how much CO2 is being saved and in turn you save the world!!
 
 A culture of carpooling within helps you save money, reduce Carbon Footprint by reducing the number of vehicles on road, help your employees network better, get to work happier, and find parking without any stress.
-In this project, I have Developed Software Design based on Object Oriented Paradigm to demonstrate top level and integrated view of basic ride sharing applications by creating UML diagrams through Visual Studio. I then extended it on Database Management to demonstrate creating database from scratch by MySQL, MS Excel.  
 
-The DBMS part shows how the process of creating the database from initial tables to inserting values to query outputs
+In this project, I have Developed Software Design based on Object Oriented Paradigm to demonstrate top level and integrated view of basic ride sharing applications by creating UML diagrams through Visual Studio. I then extended it on Database Management to demonstrate creating database from scratch by MySQL, MS Excel.
